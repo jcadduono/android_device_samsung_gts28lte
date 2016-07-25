@@ -1,0 +1,2 @@
+add_lunch_combo omni_gts28lte-eng
+add_lunch_combo omni_gts28lte-userdebug
